@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rosieranderson1
+- 👋 Hi, I’m @Rosier-Anderson
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Javascipt
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me ??
 
 <!---
 rosieranderson1/rosieranderson1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
